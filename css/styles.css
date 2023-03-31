@@ -748,12 +748,13 @@ body {
   letter-spacing: 0.04em;
   color: rgba(46, 47, 66, 0.4);
 }
-.textarea-form:hover,
+
 .textarea-form:focus,
 .textarea-form:active {
   border: 1px solid #4d5ae5;
   border-radius: 4px;
 }
+
 .policy-form-area {
   padding-bottom: 24px;
   padding-top: 16px;
